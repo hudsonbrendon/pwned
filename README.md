@@ -13,7 +13,7 @@ This tool is based on [https://haveibeenpwned.com/](https://haveibeenpwned.com/)
 # Quick start
 
 ```bash
-$ pip install pwned
+$ pip install ppwned
 ```
 or
 
