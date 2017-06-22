@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 
 setup(name='ppwned',
-      version='0.1',
+      version='0.2',
       description='Check if you have an account that'
       'has been compromised in a data breach',
       url='https://github.com/hudsonbrendon/pwned',

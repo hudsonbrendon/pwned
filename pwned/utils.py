@@ -2,7 +2,7 @@ from colors import color
 
 
 def cli(services):
-    message = 'Your data in the following services' \
+    message = 'Your data in the following services ' \
               'have already been leaked:\n'
     if services:
         print(color(message, fg='red'))
