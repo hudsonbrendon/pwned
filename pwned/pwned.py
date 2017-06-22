@@ -1,6 +1,6 @@
 import requests
 
-from pprint import pprint
+from .utils import cli
 from argparse import ArgumentParser
 
 
@@ -17,4 +17,4 @@ def main():
     parser = ArgumentParser()
     parser.add_argument('email', help='Say your email')
     args = parser.parse_args()
-    pprint(check(args.email))
+    cli(check(args.email))
