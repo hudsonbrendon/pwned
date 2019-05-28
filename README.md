@@ -1,7 +1,7 @@
 # Pywned
 
-[![Build Status](https://travis-ci.org/hudsonbrendon/pwned.svg?branch=master)](https://travis-ci.org/hudsonbrendon/pwned)
-[![Github Issues](http://img.shields.io/github/issues/hudsonbrendon/pwned.svg?style=flat)](https://github.com/hudsonbrendon/pwned/issues?sort=updated&state=open)
+[![Build Status](https://travis-ci.org/hudsonbrendon/pywned.svg?branch=master)](https://travis-ci.org/hudsonbrendon/pywned)
+[![Github Issues](http://img.shields.io/github/issues/hudsonbrendon/pywned.svg?style=flat)](https://github.com/hudsonbrendon/pywned/issues?sort=updated&state=open)
 ![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ![logo](logo.jpg)
