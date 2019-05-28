@@ -1,4 +1,4 @@
-# Pwned
+# Pywned
 
 [![Build Status](https://travis-ci.org/hudsonbrendon/pwned.svg?branch=master)](https://travis-ci.org/hudsonbrendon/pwned)
 [![Github Issues](http://img.shields.io/github/issues/hudsonbrendon/pwned.svg?style=flat)](https://github.com/hudsonbrendon/pwned/issues?sort=updated&state=open)
@@ -13,7 +13,7 @@ This tool is based on [https://haveibeenpwned.com/](https://haveibeenpwned.com/)
 # Quick start
 
 ```bash
-$ pip install ppwned
+$ pip install pywned
 ```
 or
 
@@ -26,14 +26,14 @@ $ python setup.py install
 You can import the library and use it in your project that way:
 
 ```python
->>> from pwned import check
+>>> from pywned import check
 
 >>> check(<email>)
 ```
 Or just use it on the command line like this:
 
 ```bash
-$ pwned <email>
+$ pywned <email>
 ```
 
 # Dependencies
